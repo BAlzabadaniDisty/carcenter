@@ -1,0 +1,41 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_flutter_phone_direct_callerVersionString",
+            "_flutter_phone_direct_callerVersionNumber"
+          ],
+          "objc_class": [
+            "PodsDummy_flutter_phone_direct_caller",
+            "FlutterPhoneDirectCallerPlugin"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/flutter_phone_direct_caller.framework/flutter_phone_direct_caller"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

@@ -1,0 +1,83 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC11addObserver33_D0A15E80D06D7ED9FA2F6C181E9123BBLL6resultyyypSgc_tF",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginCN",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC8observer33_D0A15E80D06D7ED9FA2F6C181E9123BBLLSo8NSObject_pSgvpfi",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginCMn",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC8observer33_D0A15E80D06D7ED9FA2F6C181E9123BBLLSo8NSObject_pSgvM",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginCACycfC",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC8register4withySo07FlutterH9Registrar_p_tFZ",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC8observer33_D0A15E80D06D7ED9FA2F6C181E9123BBLLSo8NSObject_pSgvg",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginCACycfc",
+            "_app_tracking_transparencyVersionString",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginCfD",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC03getF19AuthorizationStatus33_D0A15E80D06D7ED9FA2F6C181E9123BBLL6resultyyypSgc_tF",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq",
+            "_app_tracking_transparencyVersionNumber",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC8observer33_D0A15E80D06D7ED9FA2F6C181E9123BBLLSo8NSObject_pSgvs",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC07requestF13Authorization33_D0A15E80D06D7ED9FA2F6C181E9123BBLL6resultyyypSgc_tF",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginCMa",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC14removeObserver33_D0A15E80D06D7ED9FA2F6C181E9123BBLLyyF",
+            "_$s25app_tracking_transparency34SwiftAppTrackingTransparencyPluginC24getAdvertisingIdentifier33_D0A15E80D06D7ED9FA2F6C181E9123BBLL6resultyyypSgc_tF"
+          ],
+          "objc_class": [
+            "PodsDummy_app_tracking_transparency",
+            "AppTrackingTransparencyPlugin",
+            "_TtC25app_tracking_transparency34SwiftAppTrackingTransparencyPlugin"
+          ]
+        }
+      },
+      {
+        "data": {
+          "global": [
+            "_Swift50Overrides",
+            "_Swift51Overrides"
+          ]
+        },
+        "targets": [
+          "x86_64-ios-simulator"
+        ],
+        "text": {
+          "global": [
+            "__ZN5swift34swift50override_conformsToProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEPFPKNS_18TargetWitnessTableIS1_EES4_S8_E",
+            "__Z34_swiftoverride_class_getSuperclassPKN5swift14TargetMetadataINS_9InProcessEEE",
+            "__ZN5swift39swift51override_conformsToSwiftProtocolEPKNS_14TargetMetadataINS_9InProcessEEEPKNS_24TargetProtocolDescriptorIS1_EEN7__swift9__runtime4llvm9StringRefEPFPKNS_35TargetProtocolConformanceDescriptorIS1_EES4_S8_SC_E"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/app_tracking_transparency.framework/app_tracking_transparency"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

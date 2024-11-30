@@ -1,0 +1,18 @@
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/DKAssetGroupGridLayout.swift":
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupGridLayout.swiftdeps"
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupGridLayout.swiftconstvalues"
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupGridLayout.dia"
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupGridLayout.d"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupGridLayout.o"
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupDetailVideoCell.swift":
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupDetailVideoCell.dia"
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupDetailVideoCell.swiftconstvalues"
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupDetailVideoCell.d"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupDetailVideoCell.o"
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupDetailVideoCell.swiftdeps"
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/DKAssetGroupListVC.swift":
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupListVC.swiftconstvalues"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupListVC.o"
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupListVC.d"
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupListVC.dia"
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/x86_64/DKAssetGroupListVC.swiftdeps"

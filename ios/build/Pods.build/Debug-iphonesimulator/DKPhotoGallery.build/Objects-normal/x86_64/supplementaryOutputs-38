@@ -1,0 +1,18 @@
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/PlayerPreview/DKPhotoPlayerPreviewVC.swift":
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPlayerPreviewVC.d"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPlayerPreviewVC.o"
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPlayerPreviewVC.swiftdeps"
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPlayerPreviewVC.swiftconstvalues"
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPlayerPreviewVC.dia"
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/PDFPreview/DKPhotoPDFPreviewVC.swift":
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPDFPreviewVC.swiftdeps"
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPDFPreviewVC.dia"
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPDFPreviewVC.swiftconstvalues"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPDFPreviewVC.o"
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPDFPreviewVC.d"
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoIncrementalIndicator.swift":
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoIncrementalIndicator.dia"
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoIncrementalIndicator.swiftdeps"
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoIncrementalIndicator.swiftconstvalues"
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoIncrementalIndicator.d"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoIncrementalIndicator.o"

@@ -1,0 +1,18 @@
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/DKImagePickerController.swift":
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerController.d"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerController.o"
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerController.dia"
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerController.swiftconstvalues"
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerController.swiftdeps"
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/DKImagePickerControllerBaseUIDelegate.swift":
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerControllerBaseUIDelegate.d"
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerControllerBaseUIDelegate.swiftdeps"
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerControllerBaseUIDelegate.swiftconstvalues"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerControllerBaseUIDelegate.o"
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerControllerBaseUIDelegate.dia"
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/Resource/DKImagePickerControllerResource.swift":
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerControllerResource.o"
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerControllerResource.swiftconstvalues"
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerControllerResource.swiftdeps"
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerControllerResource.d"
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKImagePickerControllerResource.dia"

@@ -1,0 +1,18 @@
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupCellItemProtocol.swift":
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupCellItemProtocol.swiftdeps"
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupCellItemProtocol.d"
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupCellItemProtocol.swiftconstvalues"
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupCellItemProtocol.dia"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupCellItemProtocol.o"
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupDetailBaseCell.swift":
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailBaseCell.d"
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailBaseCell.swiftdeps"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailBaseCell.o"
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailBaseCell.dia"
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailBaseCell.swiftconstvalues"
+"/Users/basharengzy/Downloads/project/new projects / carcenter/ios/Pods/DKImagePickerController/Sources/DKImageDataManager/Model/DKAssetGroup.swift":
+  const-values: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroup.swiftconstvalues"
+  object: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroup.o"
+  dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroup.d"
+  swift-dependencies: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroup.swiftdeps"
+  diagnostics: "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroup.dia"

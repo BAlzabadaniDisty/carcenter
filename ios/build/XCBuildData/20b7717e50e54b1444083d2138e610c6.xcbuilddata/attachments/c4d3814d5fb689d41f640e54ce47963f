@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/basharengzy/Downloads/project/new projects / carcenter/build/ios/Debug-iphonesimulator/app_tracking_transparency/app_tracking_transparency.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/app_tracking_transparency.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/basharengzy/Downloads/project/new projects / carcenter/build/ios/Debug-iphonesimulator/app_tracking_transparency/app_tracking_transparency.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "app_tracking_transparency-Swift.h",
+      'external-contents': "/Users/basharengzy/Downloads/project/new projects / carcenter/ios/build/Pods.build/Debug-iphonesimulator/app_tracking_transparency.build/unextended-interface-header.h",
+    }]
+    }]
+}

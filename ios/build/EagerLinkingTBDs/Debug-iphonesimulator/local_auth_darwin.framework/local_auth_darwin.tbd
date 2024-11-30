@@ -1,0 +1,62 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_local_auth_darwinVersionNumber",
+            "_local_auth_darwinVersionString"
+          ],
+          "objc_class": [
+            "FLADefaultUIAlertController",
+            "FLADefaultAuthContext",
+            "FLADAuthResultDetails",
+            "FLADMessagesPigeonCodecReaderWriter",
+            "FLADAuthResultBox",
+            "FLALocalAuthPlugin",
+            "PodsDummy_local_auth_darwin",
+            "FLADMessagesPigeonCodecWriter",
+            "FLADefaultViewProvider",
+            "FLADAuthBiometricBox",
+            "FLAStickyAuthState",
+            "FLADAuthOptions",
+            "FLADefaultAlertFactory",
+            "FLADAuthStrings",
+            "FLADefaultAuthContextFactory",
+            "FLADMessagesPigeonCodecReader"
+          ]
+        },
+        "text": {
+          "global": [
+            "_SetUpFLADLocalAuthApi",
+            "_SetUpFLADLocalAuthApiWithSuffix",
+            "_FLADGetMessagesCodec"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/local_auth_darwin.framework/local_auth_darwin"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "x86_64-ios-simulator"
+      },
+      {
+        "min_deployment": "14",
+        "target": "arm64-ios-simulator"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}
