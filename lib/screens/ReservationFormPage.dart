@@ -111,12 +111,12 @@ class _ReservationFormPageState extends State<ReservationFormPage> {
         child: Stack(
           children: [
             // Background image
-            SizedBox.expand(
-              child: Image.asset(
-                backgroundImage, // Path to background image
-                fit: BoxFit.cover,
-              ),
-            ),
+            // SizedBox.expand(
+            //   child: Image.asset(
+            //     backgroundImage, // Path to background image
+            //     fit: BoxFit.cover,
+            //   ),
+            // ),
             // Form content
             Padding(
               padding: const EdgeInsets.all(16.0),
@@ -137,10 +137,10 @@ class _ReservationFormPageState extends State<ReservationFormPage> {
                           labelStyle: TextStyle(color: Colors.white), // White label text
                           hintStyle: TextStyle(color: Colors.white),  // White hint text
                           filled: true,
-                          fillColor: Colors.white30,
+                          fillColor: Colors.black54,
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),// White background with subtle transparency
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
@@ -157,12 +157,12 @@ class _ReservationFormPageState extends State<ReservationFormPage> {
                           hintText: 'أدخل رقم هاتفك',
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),
                           labelStyle: TextStyle(color: Colors.white), // White label text
                           hintStyle: TextStyle(color: Colors.white),  // White hint text
                           filled: true,
-                          fillColor: Colors.white30, // White background with subtle transparency
+                          fillColor: Colors.black54, // White background with subtle transparency
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
                         validator: (value) => value!.isEmpty ? 'رقم الهاتف مطلوب' : null,
@@ -182,7 +182,7 @@ class _ReservationFormPageState extends State<ReservationFormPage> {
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
                             borderSide: BorderSide(color: Colors.white), // White border when focused
                           ),
-                          fillColor: Colors.white30,  // White background with subtle transparency
+                          fillColor: Colors.black54,  // White background with subtle transparency
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
                         validator: (value) => value!.isEmpty ? 'نوع السيارة مطلوب' : null,
@@ -200,9 +200,9 @@ class _ReservationFormPageState extends State<ReservationFormPage> {
                           filled: true,
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),
-                          fillColor: Colors.white30,  // White background with subtle transparency
+                          fillColor: Colors.black54,  // White background with subtle transparency
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
                         validator: (value) => value!.isEmpty ? 'موديل السيارة مطلوب' : null,
@@ -221,9 +221,9 @@ class _ReservationFormPageState extends State<ReservationFormPage> {
                           filled: true,
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),
-                          fillColor: Colors.white30,  // White background with subtle transparency
+                          fillColor: Colors.black54,  // White background with subtle transparency
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
                         validator: (value) {
@@ -246,12 +246,12 @@ class _ReservationFormPageState extends State<ReservationFormPage> {
                           hintText: 'صف المشكلة في سيارتك',
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),
                           labelStyle: TextStyle(color: Colors.white), // White label text
                           hintStyle: TextStyle(color: Colors.white),  // White hint text
                           filled: true,
-                          fillColor: Colors.white30,
+                          fillColor: Colors.black54,
 
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
@@ -329,3 +329,11 @@ class CarpinteonDialog extends StatelessWidget {
     );
   }
 }
+
+// Background image
+// SizedBox.expand(
+// child: Image.asset(
+// backgroundImage, // Path to background image
+// fit: BoxFit.cover,
+// ),
+// ),

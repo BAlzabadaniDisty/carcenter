@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-
 import '../constant/color.dart';
-import '../constant/images.dart';
 import '../home.dart';
 import '../models/AskForExpertRequest.dart';
 import '../provider/AreaProvider.dart';
@@ -127,12 +125,12 @@ class _AskForExpertFormPageFormPageState extends State<AskForExpertFormPage> {
         child: Stack(
           children: [
             // Background image
-            SizedBox.expand(
-              child: Image.asset(
-                backgroundImage, // Path to background image
-                fit: BoxFit.cover,
-              ),
-            ),
+            // SizedBox.expand(
+            //   child: Image.asset(
+            //     backgroundImage, // Path to background image
+            //     fit: BoxFit.cover,
+            //   ),
+            // ),
             // Form content
             Padding(
               padding: const EdgeInsets.all(16.0),
@@ -153,10 +151,10 @@ class _AskForExpertFormPageFormPageState extends State<AskForExpertFormPage> {
                           labelStyle: TextStyle(color: Colors.white), // White label text
                           hintStyle: TextStyle(color: Colors.white),  // White hint text
                           filled: true,
-                          fillColor: Colors.white30,
+                          fillColor: Colors.black54,
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),// White background with subtle transparency
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
@@ -173,12 +171,12 @@ class _AskForExpertFormPageFormPageState extends State<AskForExpertFormPage> {
                           hintText: 'أدخل رقم هاتفك',
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),
                           labelStyle: TextStyle(color: Colors.white), // White label text
                           hintStyle: TextStyle(color: Colors.white),  // White hint text
                           filled: true,
-                          fillColor: Colors.white30, // White background with subtle transparency
+                          fillColor: Colors.black54, // White background with subtle transparency
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
                         validator: (value) => value!.isEmpty ? 'رقم الهاتف مطلوب' : null,
@@ -196,9 +194,9 @@ class _AskForExpertFormPageFormPageState extends State<AskForExpertFormPage> {
                           filled: true,
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),
-                          fillColor: Colors.white30,  // White background with subtle transparency
+                          fillColor: Colors.black54,  // White background with subtle transparency
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
                         validator: (value) => value!.isEmpty ? 'نوع السيارة مطلوب' : null,
@@ -216,9 +214,9 @@ class _AskForExpertFormPageFormPageState extends State<AskForExpertFormPage> {
                           filled: true,
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),
-                          fillColor: Colors.white30,  // White background with subtle transparency
+                          fillColor: Colors.black54,  // White background with subtle transparency
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
                         validator: (value) => value!.isEmpty ? 'موديل السيارة مطلوب' : null,
@@ -237,9 +235,9 @@ class _AskForExpertFormPageFormPageState extends State<AskForExpertFormPage> {
                           filled: true,
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),
-                          fillColor: Colors.white30,  // White background with subtle transparency
+                          fillColor: Colors.black54,  // White background with subtle transparency
                         ),
                         style: const TextStyle(color: Colors.white), // White text color
                         validator: (value) {
@@ -258,14 +256,14 @@ class _AskForExpertFormPageFormPageState extends State<AskForExpertFormPage> {
                         labelText: 'اختر المنطقة', // Label in Arabic
                         labelStyle: const TextStyle(color: Colors.white), // White label text
                         filled: true,
-                        fillColor: Colors.white30, // Semi-transparent white background
+                        fillColor: Colors.black54, // Semi-transparent white background
                         focusedBorder: const OutlineInputBorder(
                           borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded corners
                           borderSide: BorderSide(color: Colors.white), // White border on focus
                         ),
                         enabledBorder: const OutlineInputBorder(
                           borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded corners
-                          borderSide: BorderSide(color: Colors.white38), // Light white border
+                          borderSide: BorderSide(color: Colors.black54), // Light white border
                         ),
                         border: const OutlineInputBorder(
                           borderRadius: BorderRadius.all(Radius.circular(20)), // Default border with rounded corners
@@ -316,12 +314,12 @@ class _AskForExpertFormPageFormPageState extends State<AskForExpertFormPage> {
                           hintText: 'صف المشكلة في سيارتك',
                           focusedBorder: OutlineInputBorder(
                             borderRadius: BorderRadius.all(Radius.circular(20)), // Rounded border with radius 20 when focused
-                            borderSide: BorderSide(color: Colors.white), // White border when focused
+                            borderSide: BorderSide(color: Colors.black54), // White border when focused
                           ),
                           labelStyle: TextStyle(color: Colors.white), // White label text
                           hintStyle: TextStyle(color: Colors.white),  // White hint text
                           filled: true,
-                          fillColor: Colors.white30,
+                          fillColor: Colors.black54,
 
                         ),
                         style: const TextStyle(color: Colors.white), // White text color

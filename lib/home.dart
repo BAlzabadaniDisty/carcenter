@@ -87,12 +87,12 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
       body: Stack(
         children: [
           // Background image
-          SizedBox.expand(
-            child: Image.asset(
-              backgroundImage,
-              fit: BoxFit.cover,
-            ),
-          ),
+          // SizedBox.expand(
+          //   child: Image.asset(
+          //     backgroundImage,
+          //     fit: BoxFit.cover,
+          //   ),
+          // ),
           // Content
           Center(
             child: Column(
